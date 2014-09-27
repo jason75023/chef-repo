@@ -1,0 +1,10 @@
+{
+   "id": "bobo",
+   "comment": "Bobo T, Clovm",
+   "uid": 2000,
+   "gid": 0,
+   "home": "/home/bobo",
+   "shell": "/bin/bash",
+   "action": "remove",
+   "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAqyrpkK+wSzOU+Lvsbyl7kzste1ELLg8tuNMoSYq5kNVyh428UcADwdBDwQSQQcTZ8UZZ9A2HNpSurSbGp6k8QvW7jkbdZ3OrwRN106PqBnGZ5Oajs/XmULYDyb3Gh1esce8+X+lMgN87qyEpH1tONvhXHhQSgYXxPuGu4CjePSSNjckeDnhEhOkhrRk1aVR/I0fBBIuP5GKtG08/jRqcUOVcGZlsXSLPBueRCjzQg2nBBZOS6vgA1L2FwIVXalys0VZeAaHRSibadhk8FCpvpQILQ+8t0rlHdM3jyLUHPlqrNxgcKwlKXPnYn6Sq+U9VgMxE2Cmt3XKagbYGiE8oxQ== jw7698@att.com"
+}

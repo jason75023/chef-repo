@@ -1,0 +1,9 @@
+{
+   "id": "frank",
+   "comment": "Frank Belson",
+   "uid": 2001,
+   "gid": 0,
+   "home": "/home/frank",
+   "shell": "/bin/bash",
+   "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDauoUvCm6rj12jUXAhAlTxG5wwtZe/eTs3Juoyw5OOWxdvEOTqkXT4rF+wUwkKvq58pp7SIhmjuZOz8CTQm/BrGnqXjBdi54oNuXQN2x0p9ml2WlmPfcxpp3Exy1w5xXZuRrsha2WyBULCN51DL25NnBhEHU1XDH/XR+4MpgK0Y7Z+Q+ufUF/bTG4+W/ndVgFKg9t24xvNLszSGxWj2dkPVabtXaKdMZZxmTUY0aJGKTNIT4Om3raO9Y5a6IyxL0JldNg6CA5Xo9F4Tcv1W+QaM9IeLdOLtD2Yk1fx79kmmYbgIwnm2gJmkqVjOX7yE9gkTJ825H6uuETNKBSaSplz ubuntu@test1"
+}
